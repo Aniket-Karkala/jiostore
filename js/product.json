@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "JioPhone",
+      "description": "Latest JioPhone with advanced features.",
+      "price": "999",
+      "image": "jiophone.jpg",
+      "category": "Smartphones"
+    },
+    {
+      "id": 2,
+      "name": "JioTag Air",
+      "description": "Smart tracker for your essentials.",
+      "price": "1499",
+      "image": "jiotag_air.jpg",
+      "category": "Accessories"
+    }
+  ]
+  
